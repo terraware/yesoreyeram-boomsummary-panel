@@ -26,9 +26,9 @@
   },
   "homepage": "https://github.com/yesoreyeram/yesoreyeram-boomsummary-panel#readme",
   "devDependencies": {
-    "@types/node": "^11.9.6",
     "@types/jest": "^23.3.10",
     "@types/lodash": "^4.14.119",
+    "@types/node": "^11.9.6",
     "grafana-sdk-mocks": "github:grafana/grafana-sdk-mocks",
     "grunt": "^1.0.3",
     "grunt-contrib-clean": "^2.0.0",
